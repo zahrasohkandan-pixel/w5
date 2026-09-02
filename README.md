@@ -24,7 +24,7 @@ W5 has **25% lower fees**, supports **gasless transactions** (via third party re
 
 `npm run build:v5`
 
-### Test
+### Test.
 
 `npm run test`
 
