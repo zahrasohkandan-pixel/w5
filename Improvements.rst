@@ -1,4 +1,4 @@
-Improvements log
+Improvements log.
 ================
 
 In this section a table is presented with optimization results in several projections.
