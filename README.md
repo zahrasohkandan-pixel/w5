@@ -1,4 +1,4 @@
-# Wallet V5
+.# Wallet V5
 
 This is an extensible wallet specification aimed at replacing V4 and allowing arbitrary extensions.
 
